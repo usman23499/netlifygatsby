@@ -1,0 +1,38 @@
+.nav{
+    background-color: #663399
+    ;
+    
+    padding: 0.45rem 3.0875rem !important;
+    /* padding: 10px 0; */
+}
+
+.nav>a{
+    font-size: 20px;
+    color:  white;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 160px !important; 
+    
+
+}
+.nav>a:hover{
+    cursor: pointer;
+}
+
+.button1{
+
+    background-color: white;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    color: gray;
+    outline: none;
+    
+}
+.button1:hover{
+    cursor: pointer;
+    outline: none;
+    background-color: black;
+    color: white;
+}
